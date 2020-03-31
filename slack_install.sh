@@ -49,7 +49,7 @@ PROMPT_TITLE="Slack Update Required"
 
 # The body of the message that will be displayed before prompting the user for
 # their password. All message strings below can be multiple lines.
-PROMPT_MESSAGE="Your version of Slack is out of date. Click the Update Now button below, to quit Slack and install the latest Version."
+PROMPT_MESSAGE="Your version of Slack is out of date. Click the Update Now button below, to quit Slack and install the latest Version. Slack will open when the update is complete."
 
 
 ################################ Install Function #################################
